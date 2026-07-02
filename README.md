@@ -61,7 +61,7 @@ I believe in building technology that is not just functional, but meaningful and
 
 ## Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,c" />
 </p>
 
 ## Frontend
@@ -71,7 +71,7 @@ I believe in building technology that is not just functional, but meaningful and
 
 ## Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=python,flask,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,flask" />
 </p>
 
 ## Tools
