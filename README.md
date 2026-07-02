@@ -1,5 +1,5 @@
 # 💫 About Me:
-###Aspiring AI Engineer | AI/ML Enthusiast | Web Developer | Finance Learner |  Passionate about solving Real- World Problems Through Code
+### Aspiring AI Engineer | AI/ML Enthusiast | Web Developer | Finance Learner |  Passionate about solving Real- World Problems Through Code
 
 
 ## 🌐 Socials:
