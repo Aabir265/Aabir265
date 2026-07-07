@@ -178,6 +178,7 @@ AI-powered automation pipeline that summarizes long notes.
 | Research Presentation | Presented GST research paper |
 | Conference Presentation | IIT Roorkee |
 | National Seminar | Delhi University |
+| ICFMCF 2026 | IIT Madras (Assesing Gold Price returns using Martingale Diffrence Hypothesis) |
 | Builder | Multiple AI projects |
 
 ---
