@@ -141,15 +141,15 @@ Features:
 <br>
 
 <details>
-<summary><b>🤖 AI Notes Summarizer</b></summary>
+<summary><b>🤖 AI YT Video Summarizer</b></summary>
 <br>
 
-AI-powered automation pipeline that summarizes long notes.
+Gemini powered AI system which fetches transcript to provide key insights and a summary from any YT video.
 
 | Attribute | Value |
 |---|---|
-| Stack | n8n, AI APIs |
-| Type | Automation |
+| Stack | Flask, AI APIs'(Gemini API & YT API),HTML,CSS and Python |
+| Type | Web Application |
 | Performance | Fast summarization |
 | Impact | Productivity boost |
 
