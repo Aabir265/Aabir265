@@ -192,16 +192,12 @@ Gemini powered AI system which fetches transcript to provide key insights and a 
 
 # Coding Profiles
 
-<a href="#">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge" />
+<a href="https://www.codechef.com/users/asharma32_be25">
+  <img src="https://img.shields.io/badge/CodeChef-Profile-orange?style=for-the-badge" />
 </a>
 
-<a href="#">
-  <img src="https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge" />
-</a>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge" />
+<a href="https://www.codedex.io/@Aabir-265">
+  <img src="https://img.shields.io/badge/Codedex-Profile-green?style=for-the-badge" />
 </a>
 
 ---
