@@ -16,11 +16,11 @@
   <img src="https://img.shields.io/badge/Portfolio-Visit-6A5ACD?style=for-the-badge" />
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/aabir-sharma-2296b3375/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:asharma32_be25@thapar.edu">
   <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
 </a>
 
@@ -209,12 +209,12 @@ Gemini powered AI system which fetches transcript to provide key insights and a 
 # GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aabir265&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aabir265&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aabir265&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aabir265&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aabir265&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Aabir265&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ---
@@ -222,14 +222,18 @@ Gemini powered AI system which fetches transcript to provide key insights and a 
 # GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aabir265&theme=discord" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aabir265&theme=discord&no-frame=true&margin-w=10&column=7" />
 </p>
 
 ---
 
 # Contribution Graph
 
-[![Aabir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aabir265&theme=tokyo-night)](https://github.com/Aabir265)
+<p align="center">
+  <a href="https://github.com/Aabir265">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aabir265&theme=tokyo-night" />
+  </a>
+</p>
 
 ---
 
@@ -260,8 +264,6 @@ OpenTo:
 
 # Connect With Me
 
-- Portfolio: https://aabir265.github.io/My-Portfolio/
-- GitHub: https://github.com/Aabir265
 - LinkedIn: https://www.linkedin.com/in/aabir-sharma-2296b3375/
 - Email: YOUR_EMAIL
 
