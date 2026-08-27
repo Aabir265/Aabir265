@@ -262,7 +262,7 @@ OpenTo:
 
 - Portfolio: https://aabir265.github.io/My-Portfolio/
 - GitHub: https://github.com/Aabir265
-- LinkedIn: YOUR_LINKEDIN
+- LinkedIn: https://www.linkedin.com/in/aabir-sharma-2296b3375/
 - Email: YOUR_EMAIL
 
 ---
