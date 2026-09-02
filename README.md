@@ -237,7 +237,7 @@ Gemini powered AI system which fetches transcript to provide key insights and a 
 
 ```yaml
 Learning:
-  - Machine Learning Foundations
+  - Generative AI
   - Deep Learning
   - LLM Engineering
 
@@ -248,7 +248,6 @@ Building:
 Exploring:
   - RAG
   - Agentic AI
-  - Production AI Systems
 
 OpenTo:
   - Internships
