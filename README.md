@@ -43,8 +43,7 @@ I am passionate about building **AI-powered products**, intelligent software sys
 - Machine Learning  
 - Generative AI  
 - LLM Applications  
-- AI Agents  
-- Product Engineering  
+- AI Agents
 
 I believe in building technology that is not just functional, but meaningful and impactful.
 
