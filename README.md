@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/TIET-Computer%20Engineering-blueviolet?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Location-Punjab%2C%20India-4B0082?style=for-the-badge" />
-<img src="![Profile Views](https://komarev.com/ghpvc/?username=Aabir2265&style=for-the-badge&color=blueviolet)" />
+<img src="https://komarev.com/ghpvc/?username=Aabir2265&style=for-the-badge&color=blueviolet" />
 
 <br><br>
 
