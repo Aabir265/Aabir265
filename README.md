@@ -205,7 +205,7 @@ Gemini powered AI system which fetches transcript to provide key insights and a 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aabir265&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aabir265&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Aabir265&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
